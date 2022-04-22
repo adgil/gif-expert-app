@@ -6,7 +6,7 @@ export const GifExpertApp = () => {
     
 //const categories = ['One Punch', 'Samurai X', 'Dragon Ball'];  //categories
 
-    const [categories, setCategories] = useState(['Dragon Ball']);
+    const [categories, setCategories] = useState(['Hello']);
     return (
         <>
             <h2>GifExpertApp</h2>
